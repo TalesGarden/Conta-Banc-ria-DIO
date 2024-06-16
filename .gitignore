@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+.idea/misc.xml
+.idea/encodings.xml
+.idea/aws.xml
+.idea/sonarlint/securityhotspotstore/9/f/9f8dfd3652a014db96f317aa90d27c092d431b40
+.idea/sonarlint/issuestore/9/f/9f8dfd3652a014db96f317aa90d27c092d431b40
+.idea/sonarlint/securityhotspotstore/index.pb
+.idea/workspace.xml
