@@ -49,3 +49,6 @@ src/main/java/org/example/ContaBanco.java
 .idea/sonarlint/issuestore/2/6/26bd9bd73dc43561dc3abe631c9b3668a4e77382
 .idea/sonarlint/issuestore/index.pb
 *.pb
+.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+.idea/sonarlint/issuestore/index.pb
